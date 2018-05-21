@@ -19,3 +19,8 @@ experiment data is fun but not cool!
 
 We have shown that blah blah is fun! BUT blah blah blah blah is NOT fun but it could be!!
 The conclusion is becoming confusing!!!!
+
+We can conclude that this is a handsome mane:
+
+[Image of a handsome man](figs/mario.jpg)
+
