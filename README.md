@@ -22,5 +22,5 @@ The conclusion is becoming confusing!!!!
 
 We can conclude that this is a handsome mane:
 
-[Image of a handsome man](figs/mario.jpg)
+![Image of a handsome man](figs/mario.jpg)
 
