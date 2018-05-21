@@ -9,8 +9,9 @@ kukareku-kukareku-kukuku
 
 The method we use is not blah because blah is not accurate :\
 blah2
+There is method in the madness. Supposedly.
 
-##Results
+## Results
 
 experiment data is cool but not fun! 
 experiment data is fun but not cool!
@@ -22,5 +23,5 @@ The conclusion is becoming confusing!!!!
 
 We can conclude that this is a handsome mane:
 
-[Image of a handsome man](figs/mario.jpg)
+![Image of a handsome man](figs/mario.jpg)
 
