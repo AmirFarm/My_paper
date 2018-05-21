@@ -1,4 +1,4 @@
-# Directory for my paper
+# Directory for My COOL  paper
 
 ## Introduction
 
