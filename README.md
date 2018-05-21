@@ -6,6 +6,7 @@ This paper talks about blah!
 
 ## Methodology
 
+The method we use is not blah because blah is not accurate :\
 blah2
 
 ##Results
